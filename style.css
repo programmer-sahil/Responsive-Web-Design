@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Saol;
+    src: url(./SaolDisplay-Light.ttf);
+}
+@font-face {
+    font-family: Saol;
+    src: url(./SaolDisplay-LightItalic.ttf);
+    font-style: italic;
+}
+@font-face {
+    font-family: Inter;
+    src: url(./Inter-Regular.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Inter;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
